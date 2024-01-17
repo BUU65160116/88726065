@@ -32,20 +32,20 @@ body {
     transition: background-color 0.3s, transform 0.2s;
     }
     li.completed {
-    background-color: #d4edda;
+    background-color: #039425;
     text-decoration: line-through;
     }
     input[type="text"] {
     width: 60%;
     padding: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
     border-radius: 8px;
     margin-right: 10px;
     font-size: 16px;
     }
     button {
     padding: 12px 24px;
-    background-color: #ffaced;
+    background-color: #39a081;
     color: white;
     border: none;
     border-radius: 8px;
